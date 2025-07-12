@@ -6,7 +6,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 Dataset: Plant Disease Recognition Dataset
 
-Local Path Used: /kaggle/input/plant-disease-recognition-dataset
+Local Path Used: /kaggle/input/plant-disease/Plant_Disease_Dataset
 
 Classes:
 Healthy
